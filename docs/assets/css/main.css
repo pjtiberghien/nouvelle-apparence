@@ -53,7 +53,7 @@ video {
     width: 100%;
 }
 #button-assistance {
-    background-color: RGBA(200, 200, 200, 1, 0.1);
+    background-color: rgba(187, 181, 181, 0.062);
     border: 2px solid orangered;
     padding: 1em;
     margin: 1em;
