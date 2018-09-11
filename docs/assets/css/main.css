@@ -505,6 +505,7 @@ Background images
 
 #assistance_image {
         background-image: url("images/assistance-HD.png")
+        background-position: center;
     }
 
 #reseauxsociaux {
@@ -518,7 +519,7 @@ Background images
         background-image: url("images/main-LD.png");
         background-size: cover;
         padding-top: 15em;
-        padding-bottom: 25em;
+        padding-bottom: 15em;
             }
 
     #telecharger {
