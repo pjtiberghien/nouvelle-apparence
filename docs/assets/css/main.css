@@ -52,9 +52,17 @@ button {
 video {
     width: 100%;
 }
+<<<<<<< HEAD
 button_assistance {
     background-color: rgba(187, 181, 181, 0.062);
     border: 2px solid orangered;
+=======
+
+#button_assistance {
+    background-color: lightgrey;
+    border: 2px orangered;
+    color: white;
+>>>>>>> parent of f7a62c2... new test
     padding: 1em;
     margin: 1em;
     border-radius: 12px;
