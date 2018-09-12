@@ -52,15 +52,16 @@ button {
 video {
     width: 100%;
 }
-
-#button_assistance {
-    background-color: orangered;
-    border: none;
-    color: white;
+button_assistance {
+    background-color: rgba(187, 181, 181, 0.062);
+    border: 2px solid orangered;
     padding: 1em;
     margin: 1em;
-    font-size: 1,5;
-    color: white;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 1.5em;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 /*********************************************
 
@@ -319,9 +320,6 @@ Box and button individual rules
     padding: 1em auto;
     border: none;
     background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
-
-
-
 }
 #telecharger h1{
     text-align: center;
@@ -518,13 +516,12 @@ Background images
         background-image: url("images/main-LD.png");
         background-size: cover;
         padding-top: 15em;
-        padding-bottom: 25em;
+        padding-bottom: 15em;
             }
 
     #telecharger {
         background-image: url("images/leguideLD.jpg");
-        padding-bottom: 15em;
-        Padding-top: 15em;
+        padding-bottom: 3em;
     }
 
     #bientotdisponible {
